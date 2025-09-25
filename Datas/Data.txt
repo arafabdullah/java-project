@@ -1,0 +1,8 @@
+araf	1234	12	qwer	asdf
+
+messi	1111	20	qwert	asdf
+				
+lm	12345	11	asdfgh	aaaa
+aa	1234	20	asdfg	aa
+aa	1234	12	asdfg	aa
+				

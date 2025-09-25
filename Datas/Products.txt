@@ -1,0 +1,4 @@
+R15 V4	370000.0
+Honda CBR 150R	390000.0
+Suzuki GSXR 150	420000.0
+Royal Enfield Bullet350	450000.0
